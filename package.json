@@ -1,0 +1,26 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "ESM-HW",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx browser-sync start --server --files \"src/*\" --ss \"./src\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ekaterina-Bogdanova/Netology-ajs-15-hm2_3ESM.git"
+  },
+  "keywords": [
+    "esm-hw"
+  ],
+  "author": "BG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ekaterina-Bogdanova/Netology-ajs-15-hm2_3ESM/issues"
+  },
+  "homepage": "https://github.com/Ekaterina-Bogdanova/Netology-ajs-15-hm2_3ESM#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
